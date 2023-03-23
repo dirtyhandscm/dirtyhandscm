@@ -9,7 +9,7 @@ _"Debugging: the art of turning coffee into code, one semicolon at a time."_
 </p>
 
 
-## About Me
+## 📚About Me
 
 As a highly motivated and goal-oriented developer, I am eager to bring my experience and passion for learning to a new team. With a strong background in Python, Git, SQL, and backend logic, I have honed my problem-solving, computer literacy, and communication skills over the years.
 
@@ -17,7 +17,7 @@ Most recently, I have focused on Web3 development, working on projects like Webs
 
 I am a self-starter who thrives in challenging environments, and I am always eager to learn new technologies and methodologies. As I transition into a new phase of my journey, I am excited to join a team where I can contribute my skills and continue to grow as a developer. With a proven track record of success and a relentless drive for excellence, I am confident in my ability to make a significant impact in any organization that shares my passion for innovation and progress.
 
-## Experience
+## 👩‍💻Experience
 
 ### Web3 Development & NFT Projects
 
@@ -30,9 +30,9 @@ I am a self-starter who thrives in challenging environments, and I am always eag
 - Served as a Quality Assurance Officer, overseeing the seamless integration of critical jobs and maintaining the lowest failure rate in the division's history.
 - Streamlined communication pipeline for historical job discrepancies, reducing rework by 55%.
 
-## Skills
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
+ 
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
