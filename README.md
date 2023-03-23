@@ -5,7 +5,7 @@ _"Debugging: the art of turning coffee into code, one semicolon at a time."_
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dirtyhandscm&theme=chartreuse-dark&show_icons=true" alt="Amoure's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirtyhandscm&layout=compact&theme=chartreuse-dark&langs_count=4" alt="Top Langs" width="45%" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirtyhandscm&layout=compact&theme=chartreuse-dark&langs_count=4" alt="Top Langs" width="45%" height="160" />
 </p>
 
 
