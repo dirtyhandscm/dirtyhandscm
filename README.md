@@ -58,15 +58,15 @@ I am a self-starter who thrives in challenging environments, and I am always eag
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="pytest" src="https://img.shields.io/badge/pytest-0d1620.svg?logo=pytest"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="json" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"></a>
-    <a href="#"><img alt="BS" src="https://img.shields.io/badge/BeautifulSoup-000000.svg?logo=BeautifulSoup&logoColor=white"></a>
-    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white"></a>
-    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=Solidity&logoColor=white"></a>
    <a href="#"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-6D0F79.svg?logo=twilio&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=Solidity&logoColor=white"></a>
    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+    <a href="#"><img alt="BS" src="https://img.shields.io/badge/BeautifulSoup-000000.svg?logo=BeautifulSoup&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
