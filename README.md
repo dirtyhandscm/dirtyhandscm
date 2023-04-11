@@ -2,12 +2,31 @@
 
 _"Debugging: the art of turning coffee into code, one semicolon at a time."_
 
+<style>
+  .column {
+    display: inline-block;
+    width: 45%;
+    padding: 2.5%;
+    vertical-align: top;
+    box-sizing: border-box;
+  }
+  .column img {
+    height: 300px;
+    object-fit: 
+    object-position: center center;
+    width: 100%;
+  }
+</style>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dirtyhandscm&theme=chartreuse-dark&show_icons=true" alt="Amoure's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirtyhandscm&layout=compact&theme=chartreuse-dark&langs_count=4" alt="Top Langs" width="45%" height="158" />
-</p>
-
+<div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=dirtyhandscm&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Amoure's GitHub stats">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dirtyhands&theme=chartreuse-dark&layout=compact&langs_count=5&custom_title=Weekly Stats" alt="Wakatime">
+  </div>
+</div>
+In this example, we add a new rule for the img element inside the .column class to set a fixed height of 300px and to adjust the object-fit property. The object-fit property determines how the image is resized to fit within its container, and we're using the cover value to scale the image proportionally so that the image covers the entire container, while maintaining its aspect ratio. We also use object-position to center the image within the container. Finally, we set the width of the image to 100% to ensure it fills the container horizontally.
 
 ## 📚About Me
 
@@ -111,7 +130,7 @@ I am a self-starter who thrives in challenging environments, and I am always eag
 - **Technologies:** Git, SQL, Web3.js, Etherscan, Blocknative, Infura, Truffle, Ganache, OpenZeppelin
 - **Concepts:** Smart Contracts, Decentralized Applications (DApps), NFTs, Tokenomics, Blockchain, Cryptography
 
-## 📞 Contact 
+## 📞 Contact
 
 - **Email:** johndoegraham@yahoo.com
 - **LinkedIn:** [linkedin.com/in/amoure-graham](https://www.linkedin.com/in/amoure-graham)
