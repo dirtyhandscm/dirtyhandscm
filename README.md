@@ -12,9 +12,6 @@ _"Debugging: the art of turning coffee into code, one semicolon at a time."_
     </td>
   </tr>
 </table>
-
-In this example, we add a new rule for the img element inside the .column class to set a fixed height of 300px and to adjust the object-fit property. The object-fit property determines how the image is resized to fit within its container, and we're using the cover value to scale the image proportionally so that the image covers the entire container, while maintaining its aspect ratio. We also use object-position to center the image within the container. Finally, we set the width of the image to 100% to ensure it fills the container horizontally.
-
 ## 📚About Me
 
 As a highly motivated and goal-oriented developer, I am eager to bring my experience and passion for learning to a new team. With a strong background in Python, Git, SQL, and backend logic, I have honed my problem-solving, computer literacy, and communication skills over the years.
