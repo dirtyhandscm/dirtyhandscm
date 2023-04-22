@@ -12,6 +12,7 @@ _"Debugging: the art of turning coffee into code, one semicolon at a time."_
     </td>
   </tr>
 </table>
+
 ## 📚About Me
 
 As a highly motivated and goal-oriented developer, I am eager to bring my experience and passion for learning to a new team. With a strong background in Python, Git, SQL, and backend logic, I have honed my problem-solving, computer literacy, and communication skills over the years.
