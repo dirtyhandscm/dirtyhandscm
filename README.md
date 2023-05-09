@@ -23,17 +23,25 @@ I am a self-starter who thrives in challenging environments, and I am always eag
 
 ## 👩‍💻Experience
 
-### Web3 Development & NFT Projects
-
-- Developed a custom data scraper for an upcoming Community, providing valuable insights and a targeted audience for marketing efforts.
-- Built automation tools using Etherscan, Blocknative, and Infura API services.
-- Worked on Dapp testing, bug identification, and QA for user experience errors.
+###  Development & Projects
+- Developed a custom data scraper for an upcoming Community, leveraging the BeautifulSoup library and SQL for data processing:
+  - Utilized BeautifulSoup to scrape web data, extracting necessary information for further analysis.
+  - Cleaned, sterilized, and structured scraped data using SQL, enabling easy storage, retrieval, and analysis for target marketing efforts.
+  - Provided valuable insights into the community and potential audience, enabling the optimization of marketing strategies and enhancing community engagement.
+- Worked on Dapp testing, bug identification, and QA for user experience errors:
+  - Performed thorough testing of decentralized applications (Dapps), ensuring functionality aligns with design specifications and user requirements.
+  - Identified and reported software bugs, working collaboratively with development teams to expedite fixes and improve overall application stability.
+  - Assured quality user experience by identifying potential UX issues and recommending improvements, leading to increased user satisfaction and engagement.
+- Created a comprehensive Ethereum wallet management system, consisting of a Flask-based API and a corresponding Command-Line Interface (CLI) bot.
+  - Developed a RESTful API with Flask and Flask-RESTful, integrating with the Etherscan API for retrieving wallet balance information, and utilized the web3.py library to interact with the Ethereum blockchain.
+  - Constructed a CLI bot that interfaces with the Flask API, utilizing a curses-based user interface for terminal interaction, allowing users to manage Ethereum wallets and perform operations such as checking wallet balances and transferring Ethereum between wallets.
+  - Integrated secure practices for handling sensitive data, including the use of environment variables for API keys and other credentials.
+  - Utilized PyInstaller for packaging the CLI bot into an executable for easy distribution and use on the end-user's machine. Designed the API for server hosting, enabling remote access and operation.
+  - Implemented file handling in Python to load wallet data from files, enabling bulk operations and enhancing the usability for the end user.
 
 ### United States Navy
-
 - Served as a Quality Assurance Officer, overseeing the seamless integration of critical jobs and maintaining the lowest failure rate in the division's history.
 - Streamlined communication pipeline for historical job discrepancies, reducing rework by 55%.
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
  
